@@ -1,18 +1,35 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 .container {
     width: 100%;
     min-height: 100%;
     position: relative;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 nav {
 	width:100%;
     height: 30px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 #account_image {
 	width: 25px;
 	height: 25px;
 	border-radius: 50%;
 	line-height: 35px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 li {
     list-style: none;
     display: inline-block;
@@ -20,6 +37,10 @@ li {
 nav li {
 	float:right;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 li a {
     text-decoration: none;
     font-family: arial;
@@ -30,26 +51,46 @@ li a {
     margin-top: 2px;
     margin-right: 13px;
 }
+<<<<<<< HEAD
 li a:hover {
 	text-decoration: underline;
 }
+=======
+
+li a:hover {
+	text-decoration: underline;
+}
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 .options {
 	background: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png) no-repeat -139px -45px;
 	width: 25px;
 	height:25px;
 	line-height: 38px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 .notifications {
 	background: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png) no-repeat -349px -42px;
 	width: 25px;
 	height: 25px;
 	line-height: 30px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 .google_image {
     width: 280px;
     margin: 195px auto 0 auto;
     display: block;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 body {
 	margin: 0;
 	padding: 0;
@@ -59,6 +100,10 @@ body {
 	padding: 10px;
 	padding-bottom: 55px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 input {
     width: 550px;
     height: 25px;
@@ -66,6 +111,10 @@ input {
     margin: 20px auto;
     display: block;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 #footer {
     position: absolute;
     bottom: 0;
@@ -80,4 +129,8 @@ input {
 }
 .left_footer {
 	float: left;
+<<<<<<< HEAD
+=======
+
+>>>>>>> f64099a7a77b989574455d28baffab9618781354
 }
